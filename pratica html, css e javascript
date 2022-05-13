@@ -1,0 +1,33 @@
+AulaHTML.html
+
+/* Estilo aplicado nos elementos da seção body */
+body {
+/* configuração da fonte */
+<p><b>palavra</b> em negrito</p>
+<p><strong>NEGRITO</strong></p>
+<P><i>ITALICO</i></P>
+<P><EM>ITALICO</EM></P>
+/* alinhamento do texto em parágrafos */
+<div id="div-paragrafos">;
+/* configurando a cor da fonte */
+<p><b>palavra</b> em negrito</p>
+<p><strong>NEGRITO</strong></p>
+
+
+
+AulaCSS.html
+
+/* Estilo aplicado nos elementos da seção body */
+body {
+/* configuração da fonte */
+<p class="serifada">Fonte Serifada</p>
+<p class="sem-serifa">Fonte Sem Serifa</p>
+<p class="monoespacada">Fonte Monoespaçada</p>
+/* alinhamento do texto em parágrafos númerados */
+<p class="p-numerados" id="p1">Parágrafo nº 1</p>
+<p class="p-numerados" id="p2">Parágrafo nº 2</p>
+/* configurando a cor da fonte */
+"color: red;"
+
+/* configurando a cor do fundo */
+ color: green;
